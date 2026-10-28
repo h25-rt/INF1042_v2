@@ -1,0 +1,7 @@
+# moyenne de trois notes 
+n1= 12
+n2= 15
+n3= 9
+moyenne = (n1+ n2 + n3 )/3 
+print (moyenne)
+float (moyenne )
